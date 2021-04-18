@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build",
+  "command": "/usr/bin/clang++ -DBOOST_ALL_NO_LIB -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -I/home/cheng/Downloads/demo-ccapi/include  -O3 -Wall -pedantic -Wextra -g -std=gnu++14 -o CMakeFiles/Name.dir/src/main.cpp.o -c /home/cheng/Downloads/demo-ccapi/src/main.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/src/main.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/simpledom.dir/simpledom/simpledom.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simpledom/simpledom.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simpledom/simpledom.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/simplereader.dir/simplereader/simplereader.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simplereader/simplereader.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simplereader/simplereader.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/archivertest.dir/archiver/archiver.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/archiver/archiver.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/archiver/archiver.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/archivertest.dir/archiver/archivertest.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/archiver/archivertest.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/archiver/archivertest.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/simplewriter.dir/simplewriter/simplewriter.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simplewriter/simplewriter.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simplewriter/simplewriter.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/capitalize.dir/capitalize/capitalize.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/capitalize/capitalize.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/capitalize/capitalize.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/prettyauto.dir/prettyauto/prettyauto.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/prettyauto/prettyauto.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/prettyauto/prettyauto.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/condense.dir/condense/condense.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/condense/condense.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/condense/condense.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/filterkey.dir/filterkey/filterkey.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/filterkey/filterkey.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/filterkey/filterkey.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/filterkeydom.dir/filterkeydom/filterkeydom.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/filterkeydom/filterkeydom.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/filterkeydom/filterkeydom.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/schemavalidator.dir/schemavalidator/schemavalidator.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/schemavalidator/schemavalidator.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/schemavalidator/schemavalidator.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/messagereader.dir/messagereader/messagereader.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/messagereader/messagereader.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/messagereader/messagereader.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/sortkeys.dir/sortkeys/sortkeys.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/sortkeys/sortkeys.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/sortkeys/sortkeys.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/simplepullreader.dir/simplepullreader/simplepullreader.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simplepullreader/simplepullreader.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/simplepullreader/simplepullreader.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/pretty.dir/pretty/pretty.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/pretty/pretty.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/pretty/pretty.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/jsonx.dir/jsonx/jsonx.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/jsonx/jsonx.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/jsonx/jsonx.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/tutorial.dir/tutorial/tutorial.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/tutorial/tutorial.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/tutorial/tutorial.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/parsebyparts.dir/parsebyparts/parsebyparts.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/parsebyparts/parsebyparts.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/parsebyparts/parsebyparts.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/lookaheadparser.dir/lookaheadparser/lookaheadparser.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/lookaheadparser/lookaheadparser.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/lookaheadparser/lookaheadparser.cpp"
+},
+{
+  "directory": "/home/cheng/Downloads/demo-ccapi/build/third_party/rapidjson/example",
+  "command": "/usr/bin/clang++ -DBUILD_ARCH=\\\"x86_64\\\" -DBUILD_ID=\\\"\\\" -DBUILD_VERSION=\\\"0.0.1\\\" -D__STDC_FORMAT_MACROS -I/home/cheng/Downloads/demo-ccapi/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/include -I/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/../include  -O3 -Wall -pedantic -Wextra -march=native -Wall -Wextra -Werror -Wno-missing-field-initializers -g -Weffc++ -Wswitch-default -Wfloat-equal -Wconversion -Wimplicit-fallthrough -std=gnu++11 -o CMakeFiles/serialize.dir/serialize/serialize.cpp.o -c /home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/serialize/serialize.cpp",
+  "file": "/home/cheng/Downloads/demo-ccapi/third_party/rapidjson/example/serialize/serialize.cpp"
+}
+]
